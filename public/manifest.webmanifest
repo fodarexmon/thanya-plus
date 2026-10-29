@@ -1,0 +1,19 @@
+{
+  "name": "ثانية+ — الصف الثاني الإعدادي",
+  "short_name": "ثانية+",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7ff",
+  "theme_color": "#6d5dfc",
+  "description": "منصة شروحات فيديو للصف الثاني الإعدادي 2026/2027",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
